@@ -1,2 +1,2 @@
 # game-inputs
-inputs
+input file for game simulations
